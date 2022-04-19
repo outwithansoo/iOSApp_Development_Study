@@ -1,7 +1,7 @@
 # iOSApp_Development_Study
 
 
-
+## 목차
 1. 명언생성기 앱
 2. LED 전광판 앱
 3. 계산기 앱
@@ -32,3 +32,6 @@
 28. 뉴스 앱
 29. 트위터 앱
 30. 다양한오류대처 방법
+
+![3672983031_gtWaew2Y_0da636205aa7050c69b829a721b2b63f3bdce0d5](https://user-images.githubusercontent.com/92626903/163963000-ae28916c-675f-499e-9fec-7ff48ee6ed22.png)
+
